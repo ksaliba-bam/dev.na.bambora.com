@@ -135,7 +135,7 @@ More complete, internal only documentation about deploying can be found in Confl
 at: <https://confluence.beanstream.com/pages/viewpage.action?pageId=64456558>
 
 Changes should first be made and tested on a feature branch, then pushed to the test branch,
-and only test should be merged/pushed to master.
+and only test should be merged/pushed to the production branch.
 
 Any team branch that is pushed to the Github repo will be built and deployed to an internally
 accessible s3 bucket with the name `dev.beanstream.com.<branch_name>`.
@@ -148,7 +148,7 @@ There are two ways to make changes to the documentation:
 
 #### Through your web browser
 
-Every page of the developer portal has an 'Edit this page' button in the top right corner. Clicking this will prompt you to create or sign in to a Github account and fork the developer portal repository. You will then be taken to the markdown version of the page you wish to edit. After making your changes, click propose file changes and then create a pull request against the master branch of the repository. Your changes will be reviewed and merged into the developer portal.
+Every page of the developer portal has an 'Edit this page' button in the top right corner. Clicking this will prompt you to create or sign in to a Github account and fork the developer portal repository. You will then be taken to the markdown version of the page you wish to edit. After making your changes, click propose file changes and then create a pull request against the production branch of the repository. Your changes will be reviewed and merged into the developer portal.
 
 #### Through a git branch
 
