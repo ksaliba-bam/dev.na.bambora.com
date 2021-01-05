@@ -62,7 +62,7 @@ summarized in the table below.
 | `reserves_forward` | Total amount that Bambora held in a reserve account as of the previous statement period |
 
 More detailed information about these fields can be found in our API specification
-which can be found at: <https://dev.na.bambora.com/docs/references/payment_APIs/v1-0-5/#smooth-scroll-top>
+which can be found at: <https://dev.na.bambora.com/docs/references/payment_APIs/v1-0-5/>
 
 ## Getting Started
 
@@ -125,7 +125,7 @@ Note: Both of these values are required on all requests to the Settlement Report
 
 Both parameters accept a date, and will restrict settlement records to the date
 range specified (inclusive).  More details are in the formal specification at
-<https://dev.na.bambora.com/docs/references/payment_APIs/v1-0-5/#smooth-scroll-top>
+<https://dev.na.bambora.com/docs/references/payment_APIs/v1-0-5/>
 
 ### Example
 

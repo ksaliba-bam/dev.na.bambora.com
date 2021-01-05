@@ -94,7 +94,7 @@ cards:
         description: >
             Query for credit card settlement and fee information.
         icon: creditcard-outline
-        link: /docs/guides/settlement
+        link: /docs/guides/settlement_report
     -
         title: SSL
         description: >
