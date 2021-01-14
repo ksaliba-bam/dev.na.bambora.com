@@ -16,17 +16,10 @@ navigation:
 
 ## Report Overview
 
-As a Bambora Merchant, the Settlement Report provides an overview of
-transactions and upcoming settlement disbursement. You will be able to view
-pending settlement, settlement amount, when to expect it, and what fees were
-removed. With the settlement data, you can spend less time on manual tasks and
-reconciliation.
-
-As a Bambora Partner, you can help your customers reconcile by
-displaying settlement data within your software by using the Settlement Report.
-It allows you to display to your customers their pending settlement, settlement
-amount, when they can expect it, and what fees were removed. With the settlement
-data, your customers can spend less time on manual tasks and reconciliation.
+The Settlement Report provides an overview of transactions and upcoming
+settlement disbursement. You will be able to view pending settlement, settlement
+amount, when to expect it, and what fees were removed. With the settlement data,
+you can spend less time on manual tasks and reconciliation.
 
 ## Report Columns
 
@@ -38,7 +31,7 @@ summarized in the table below.
 | ------ | ----------------- |
 | `merchant_id` | The id of the merchant |
 | `transactions_date` | The day the transactions settled |
-| `currency` | The currency (CAD, USD, etc) of the settlement |
+| `currency` | The currency (CAD, USD) of the settlement |
 | `settlement_net_amount` | Total amount (net) of the settlement |
 | `settlement_state` | The current state (scheduled, approved, etc) of the settlement |
 | `settlement_date` | The day funds are expected to be settled |
@@ -47,10 +40,10 @@ summarized in the table below.
 | `sale_amount_total` | Total amount of sales of the settlement |
 | `returned_amount_total` | Total amount of returns of the settlement |
 | `chargebacks_count` | Total count of chargebacks |
-| `chargebacks_amount_total` | Total amount (ie monetary total) of chargebacks |
+| `chargebacks_amount_total` | Total amount (i.e. monetary total) of chargebacks |
 | `card_transaction_approved_rate` | Rate for approved transactions |
 | `card_transaction_declined_rate` | Rate for declined transactions |
-| `card_discount_rate` | Credit card discount rate fee (ie 3%) |
+| `card_discount_rate` | Credit card discount rate fee (i.e. 3%) |
 | `gst_tax_rate` | GST rate applied to fees |
 | `approved_transaction_fee_total` | Total fees for approved transactions of the settlement |
 | `declined_transaction_fee_total` | Total fees for declined transactions of the settlement |
@@ -61,8 +54,9 @@ summarized in the table below.
 | `reserves_released` | Amount released from the reserve account during the current statement period |
 | `reserves_forward` | Total amount that Bambora held in a reserve account as of the previous statement period |
 
-More detailed information about these fields can be found in our API specification
-which can be found at: <https://dev.na.bambora.com/docs/references/payment_APIs/v1-0-5/>
+More detailed information about these fields can be found in our API
+specification which can be found at:
+<https://dev.na.bambora.com/docs/references/payment_APIs/v1-0-5/>
 
 ## Getting Started
 
