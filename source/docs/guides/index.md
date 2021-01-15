@@ -11,7 +11,7 @@ navigation:
   header_active: Guides
 
 cards:
-    -                
+    -
         title: Quickstart - Merchant
         description: >
             Create a test account and test our Payment APIs.
@@ -89,6 +89,12 @@ cards:
             Schedule series of automatic payments.
         icon: creditcard-outline
         link: /docs/guides/recurring_payment
+    -
+        title: Settlement Report
+        description: >
+            Query for credit card settlement and fee information.
+        icon: creditcard-outline
+        link: /docs/guides/settlement_report
     -
         title: SSL
         description: >
