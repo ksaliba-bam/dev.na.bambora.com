@@ -83,7 +83,7 @@ cards:
             Lean about managing secure payment profiles.
         icon: checkmark
         link: /docs/guides/payment_profiles
-    -
+    # -
         # title: Recurring Payment
         # description: >
         #     Schedule series of automatic payments.
