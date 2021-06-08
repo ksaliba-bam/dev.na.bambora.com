@@ -84,11 +84,11 @@ cards:
         icon: checkmark
         link: /docs/guides/payment_profiles
     -
-        title: Recurring Payment
-        description: >
-            Schedule series of automatic payments.
-        icon: creditcard-outline
-        link: /docs/guides/recurring_payment
+        # title: Recurring Payment
+        # description: >
+        #     Schedule series of automatic payments.
+        # icon: creditcard-outline
+        # link: /docs/guides/recurring_payment
     -
         title: Settlement Report
         description: >
