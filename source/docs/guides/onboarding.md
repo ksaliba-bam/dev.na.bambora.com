@@ -26,10 +26,7 @@ To get a custom UI using our Onboarding API, you'll need to construct an
 environment that integrates our sandbox, and have it approved by our Onboarding
 Team.
 
-To begin, make sure you're [signed up for a partner
-account](/docs/forms/request_partner_account/). After you're accepted, we'll
-email you an API access token for our sandbox environment along with a Pricing
-Package ID.
+To get started please reach out to your Account Manager, who can discuss the service with you and determine the next steps.
 
 > Your test Pricing Package ID will set the rates for customers that begin processing.
 

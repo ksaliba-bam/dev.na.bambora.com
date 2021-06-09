@@ -34,12 +34,6 @@ card_sets:
                 icon: flag
                 link: /docs/guides/merchant_quickstart/
             -
-                title: Partner Quickstart
-                description: >
-                    Get up and running fast by opening a test account and hitting a few of our API endpoints.
-                icon: flag
-                link: /docs/guides/partner_quickstart/
-            -
                 title: More...
                 description: >
                     Learn how to get things done. See all the guides.
