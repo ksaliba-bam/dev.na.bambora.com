@@ -26,6 +26,8 @@ To get a custom UI using our Onboarding API, you'll need to construct an
 environment that integrates our sandbox, and have it approved by our Onboarding
 Team.
 
+To get started please reach out to your Account Manager, who can discuss the service with you and determine the next steps.
+
 > Your test Pricing Package ID will set the rates for customers that begin processing.
 
 Once you have your account and pricing ID, you'll be ready to start building
