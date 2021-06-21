@@ -17,12 +17,12 @@ cards:
             The Payment APIs allows you to tokenize cards, take payments, store customer data and query transactions.
         icon: notification-active
         link: /docs/references/payment_APIs/
-    -
-        title: Onboarding API
-        description: >
-            The Onboarding API allows you to submit applications on behalf of sub-merchants.
-        icon: checkmark
-        link: /docs/references/onboarding_API/
+#    -
+#        title: Onboarding API
+#        description: >
+#            The Onboarding API allows you to submit applications on behalf of sub-merchants.
+#        icon: checkmark
+#        link: /docs/references/onboarding_API/
     -
         title: Custom Checkout Reference
         description: >
@@ -42,7 +42,7 @@ cards:
             Batch credit card, EFT and ACH transactions.
         icon: creditcard-outline
         link: /docs/references/batch_payment
-    -
+        #-
         # title: Recurring Payment
         # description: >
         #     Schedule series of automatic payments.

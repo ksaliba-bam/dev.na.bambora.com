@@ -12,11 +12,11 @@ navigation:
 
 cards:
     -
-        title: Quickstart - Merchant
+        title: Merchant
         description: >
             Create a test account and test our Payment APIs.
         icon: notification-active
-        link: /docs/guides/merchant_quickstart/
+        link: /docs/guides/quickstart/
     -
         title: Checkout
         description: >
@@ -65,18 +65,24 @@ cards:
             Process payments with Masterpass.
         icon: creditcard-outline
         link: /docs/guides/masterpass
-    -
-        title: Onboarding
-        description: >
-            Get up to speed on our Onboarding API in minutes.
-        icon: list
-        link: /docs/guides/onboarding/
+#    -
+#        title: Onboarding
+#        description: >
+#            Get up to speed on our Onboarding API in minutes.
+#        icon: list
+#        link: /docs/guides/onboarding/
     -
         title: Payment Profiles
         description: >
             Lean about managing secure payment profiles.
         icon: checkmark
         link: /docs/guides/payment_profiles
+#    -
+#        title: Recurring Payment
+#        description: >
+#            Schedule series of automatic payments.
+#        icon: creditcard-outline
+#        link: /docs/guides/recurring_payment
     -
         title: Settlement Report
         description: >

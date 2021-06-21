@@ -127,4 +127,4 @@ customCheckout.createToken(function (result) {
 
 Once you have a token representing credit card data, the next step is to pass to one of our APIs via your server. You can either pass it to the [Payment API](/docs/references/payment_APIs/) to create a payment immediately, or pass it to the [Payment Profile API](/docs/references/payment_APIs/) to save the card data for future payments.
 
-You can find out more about getting up-and-running with our APIs [here](/docs/guides/merchant_quickstart/).
+You can find out more about getting up-and-running with our APIs [here](/docs/guides/quickstart/).
