@@ -56,12 +56,12 @@ card_sets:
                     Our Payment APIs supports online payments, card tokenization, payment profiles and reporting.
                 icon: flag
                 link: /docs/references/payment_APIs/
-            -
-                title: Onboarding API
-                description: >
-                    Our Onboarding API allows partners to submit applications on behalf of new sub-merchants.
-                icon: comment
-                link: /docs/references/onboarding_API/
+#            -
+#                title: Onboarding API
+#                description: >
+#                    Our Onboarding API allows partners to submit applications on behalf of new sub-merchants.
+#                icon: comment
+#                link: /docs/references/onboarding_API/
             -
                 title: More...
                 description: >
