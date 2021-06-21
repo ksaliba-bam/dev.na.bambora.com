@@ -42,12 +42,12 @@ cards:
             Batch credit card, EFT and ACH transactions.
         icon: creditcard-outline
         link: /docs/references/batch_payment
-    -
-        title: Recurring Payment
-        description: >
-            Schedule series of automatic payments.
-        icon: creditcard-outline
-        link: /docs/references/recurring_payment
+        #-
+        # title: Recurring Payment
+        # description: >
+        #     Schedule series of automatic payments.
+        # icon: creditcard-outline
+        # link: /docs/references/recurring_payment
     -
         title: Address Verification System (AVS)
         description: >
