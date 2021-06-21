@@ -388,5 +388,5 @@ curl https://sandbox-api.na.bambora.com/v1/boarding/workflows/psp-usd/applicatio
 
 Now that you're ready to begin processing payments, you can learn about
 integrating with our [Payments API](/docs/references/payment_APIs). You can also
-use our [Merchant Quickstart Guide](/docs/guides/merchant_quickstart) to get up
+use our [Quickstart Guide](/docs/guides/quickstart) to get up
 and running fast.

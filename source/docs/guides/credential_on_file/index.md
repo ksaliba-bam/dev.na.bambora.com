@@ -40,7 +40,7 @@ Credential-on-File indicator for Credential-on-File transactions.  The new JSON 
 This new JSON object is also returned back as part of the PaymentResponse JSON object, identifying the Credential-on-File type that the transaction 
 was processed as, and the series ID that it belongs to. The series ID is unique for each merchant account, and cannot be used to reference a string of transactions from another account.
 
-For documentation on how to call our Payment APIs click <a href="https://dev.na.bambora.com/docs/guides/merchant_quickstart/calling_APIs/">here</a>.
+For documentation on how to call our Payment APIs click <a href="https://dev.na.bambora.com/docs/guides/quickstart/calling_APIs/">here</a>.
 
 ## Credential-on-File Types
 

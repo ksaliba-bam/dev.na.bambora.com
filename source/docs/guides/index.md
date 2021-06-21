@@ -12,17 +12,11 @@ navigation:
 
 cards:
     -
-        title: Quickstart - Merchant
+        title: Merchant
         description: >
             Create a test account and test our Payment APIs.
         icon: notification-active
-        link: /docs/guides/merchant_quickstart/
-    -
-        title: Quickstart - Partner
-        description: >
-            Get a Partner API key and try our Onboarding API.
-        icon: checkmark
-        link: /docs/guides/partner_quickstart/
+        link: /docs/guides/quickstart/
     -
         title: Checkout
         description: >

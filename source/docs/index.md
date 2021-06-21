@@ -18,7 +18,7 @@ hero_unit:
         The single source of truth for our North America payment gateway.
     button:
         text: Get started
-        link: /docs/guides/merchant_quickstart/
+        link: /docs/guides/quickstart/
     gradient: true
 
 card_sets:
@@ -28,17 +28,11 @@ card_sets:
             Learn how to get things done. See all the guides <a href="/docs/guides">here.</a>
         cards:
             -
-                title: Merchant Quickstart
+                title: Quickstart
                 description: >
                     Get up and running fast by opening a test account and hitting a few of our API endpoints.
                 icon: flag
-                link: /docs/guides/merchant_quickstart/
-            -
-                title: Partner Quickstart
-                description: >
-                    Get up and running fast by opening a test account and hitting a few of our API endpoints.
-                icon: flag
-                link: /docs/guides/partner_quickstart/
+                link: /docs/guides/quickstart/
             -
                 title: More...
                 description: >
